@@ -1,0 +1,1 @@
+/Users/Maxime/Documents/HEIG/INF1/Projet/VST/Applications/Synthesis.app
